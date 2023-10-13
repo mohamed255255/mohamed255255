@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
+<h1 align="center">Hi , I'm Mohamed</h1>
 <h3 align="center">A computer science student passionate about backend and machine learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed255255&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed255255" /> </p>
@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-gaber-58a30122b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-gaber-58a30122b/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/supergaber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/supergaber" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/gaberel5arek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/gaberel5arek/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-gaber-58a30122b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-gaber-58a30122b/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/supergaber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/supergaber" height="30" width="40" /></a>
+<a href="https://leetcode.com/gaberel5arek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/gaberel5arek/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming languages:</h3>
