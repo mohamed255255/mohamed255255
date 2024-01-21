@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Mohamed</h1>
 <h3 align="center">A computer science student passionate about backend and machine learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed255255&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed255255" /> </p>
-
 - 🔭 I’m currently working on : **Arabic speech recognition with diacritics to fix people's recitation for the Quran**
 
 - 🌱 I’m currently learning : **machine learning , deep learning**
