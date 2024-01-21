@@ -39,11 +39,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed255255&show_icons=true&locale=en&layout=compact" alt="mohamed255255" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed255255&show_icons=true&locale=en" alt="mohamed255255" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed255255&" alt="mohamed255255" /></p>
 
 <!--
 **mohamed255255/mohamed255255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
