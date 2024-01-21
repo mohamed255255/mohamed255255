@@ -12,7 +12,7 @@
 <h3 align="left">Problem solving:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/supergaber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/supergaber" height="30" width="40" /></a>
-<a href="https://leetcode.com/gaberel5arek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/SuperGaber12/" height="30" width="40" /></a>
+<a href="https://leetcode.com/SuperGaber12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/SuperGaber12/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming languages:</h3>
