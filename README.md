@@ -7,8 +7,6 @@
 
 - 📫 How to reach me  : **mohamedthebraveheart@gmail.com**
 
-- 📄 Know about my experiences [My resume](https://www.dropbox.com/scl/fi/rp2dc9nzfzdns6nhs4eg4/MohamedGaber.pdf?rlkey=umjl700jhcnus8bu6wv1mxs4y&dl=0)
-
 <h3 align="left">Problem solving:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/supergaber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/supergaber" height="30" width="40" /></a>
