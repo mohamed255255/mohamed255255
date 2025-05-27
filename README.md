@@ -1,11 +1,7 @@
 <h1 align="center">Hi , I'm Mohamed</h1>
 <h3 align="center">A computer science student passionate about backend and machine learning</h3>
 
-- 🔭 I’m currently working on : **Arabic speech recognition with diacritics to fix people's recitation for the Quran**
-
-- 🌱 I’m currently learning : **machine learning , deep learning**
-
-- 📫 How to reach me  : **mohamedthebraveheart@gmail.com**
+- 📫 How to reach me  : **mohamedgaber255255@gmail.com**
 
 <h3 align="left">Problem solving:</h3>
 <p align="left">
